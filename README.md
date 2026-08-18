@@ -50,6 +50,6 @@
 | :--- | :--: | ---: |
 | kani| 20 | B.Tech |
 | kushi | 21 | B.Sc |
-|  | 22 | B.Com |
-
----
+| vaishu | 22 | B.Com |
+| harini|23|BCA|
+----
