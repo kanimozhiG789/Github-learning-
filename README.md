@@ -60,6 +60,7 @@ creating drop_down
 <details> <summary>  
 click for hidden contents
 </summary>
+  ## Hidden contents
 hidden contents goes here... 
   kani qualification is b.tech
 </details>
