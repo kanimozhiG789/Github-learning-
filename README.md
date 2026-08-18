@@ -65,7 +65,7 @@ hidden contents goes here...
 </details>
 [git-hub] ("https://github.com")<br>
 [git-hub]"https://github.com" "click the title")
-<p align = "centre" >
-  <b>* This are information about Markdown</b> 
+<p align = "center">
+  <b>* This are information about Markdown</b> <br>
   <i>open to learn about github </i>
 </p>
