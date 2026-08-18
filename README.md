@@ -53,4 +53,12 @@
 | vaishu | 22 | B.Com |
 | harini|23|BCA|
 ----
+## Mark
 <mark> This is example for hilghlighting text</mark>
+
+creating drop_down
+<details> <summary>  
+click for hidden contents
+</summary>
+hidden contents goes here...
+</details>
