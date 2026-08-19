@@ -1,0 +1,22 @@
+# 🎉 Event Planning and Documentation Repository
+
+## 📌 Project Overview
+
+This repository documents the complete lifecycle of a college event, including planning, budgeting, committee management, invitations, scheduling, photo documentation, feedback, and the final event report.
+
+---
+
+## 📂 Repository Structure
+
+```text
+Event-Planning-Documentation/
+│
+├── README.md
+├── event-proposal.md
+├── committee-structure.md
+├── budget.md
+├── invitations.md
+├── event-schedule.md
+├── photo-documentation.md
+├── feedback-report.md
+└── final-event-report.md
